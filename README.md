@@ -3,6 +3,7 @@
 This two-part python project works with csv files which contain financial records and election data. 
 
 Part One: In the folder PyBank, the main.py file contains python code to analyze:
+
     1. The total number of months included in the dataset
 
     2. The net total amount of "Profit/Losses" over the entire period
@@ -14,6 +15,7 @@ Part One: In the folder PyBank, the main.py file contains python code to analyze
     5. The greatest decrease in profits (date and amount) over the entire period
 
 Part two: In the folder PyPoll, the main.py file contains python code to analyze:
+
     1. The total number of votes cast
 
     2. A complete list of candidates who received votes
